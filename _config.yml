@@ -1,0 +1,28 @@
+name: iamdicksonleung
+favicon: null
+layout_spectrum: 0.4221252512652427
+typography_spectrum: 0.9166456821840256
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.15759297646582127
+  lightness: 0.6498880232684314
+  saturation: 0.5074972421862185
+  rhythmicContrast: 0.2607312377076596
+purpose: []
