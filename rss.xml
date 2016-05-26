@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[I Am Dickson Leung]]></title>
+        <description><![CDATA[I Am Dickson Leung]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 26 May 2016 23:14:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wearable keyboard lets users Tap to type]]></title>
+            <description><![CDATA[<article><h1>Wearable keyboard lets users Tap to type</h1><p>The decline of desktop computing and the proliferation of other devices that require text input mean that alternatives to the traditional keyboard are now needed. The Tap Strap wearable keyboard is one such alternative that works with Bluetooth devices and lets users tap on any surface to type.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e5bf3943bfd70e80419539f30f78b6bb7c265e2.jpg"></article>]]></description>
+            <link>http://www.gizmag.com/tap-strap-wearable-bluetooth-keyboard/43337/</link>
+            <guid isPermaLink="false">dc5b8d82-573d-46e5-b39d-56ac6e36bc0d</guid>
+            <pubDate>Thu, 26 May 2016 23:14:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
