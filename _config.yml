@@ -1,7 +1,7 @@
 name: iamdicksonleung
 favicon: null
-layout_spectrum: 0.4221252512652427
-typography_spectrum: 0.9166456821840256
+layout_spectrum: 0.35945
+typography_spectrum: 0.36228
 title: I Am Dickson Leung
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.15759297646582127
-  lightness: 0.6498880232684314
-  saturation: 0.5074972421862185
-  rhythmicContrast: 0.2607312377076596
+    - '#16b1ea'
+    - '#bfe2fe'
+    - '#047ac2'
+    - '#5bc9ed'
+    - '#002a4b'
+  brandStrength: 0.75
+  lightness: 0.6875
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
