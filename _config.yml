@@ -1,6 +1,6 @@
 name: iamdicksonleung
 favicon: null
-layout_spectrum: 0.35945
+layout_spectrum: 0.9236
 typography_spectrum: 0.36228
 title: I Am Dickson Leung
 cta:
@@ -23,7 +23,7 @@ color:
     - '#5bc9ed'
     - '#002a4b'
   brandStrength: 0.75
-  lightness: 0.6875
+  lightness: 0.9375
   saturation: 0.3125
   rhythmicContrast: 0.25
 purpose: []
