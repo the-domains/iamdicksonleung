@@ -4,8 +4,15 @@
         <description><![CDATA[I Am Dickson Leung]]></description>
         <link>http://iamdicksonleung.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 17:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 02:53:34 GMT</lastBuildDate>
         <atom:link href="http://iamdicksonleung.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<p>The About Page of my Blog.</p>]]></description>
+            <link>http://iamdicksonleung.com/about/index.html</link>
+            <guid isPermaLink="false">e9dfb433-c19c-40ab-8254-6605c8529868</guid>
+            <pubDate>Thu, 09 Jun 2016 02:53:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>In a previous post, I mentioned that Chinese is a written language and that you actually can't "speak Chinese". I had to make this distinction clear because believe it or not, many people just wouldn't know unless you have been part of the Chinese culture growing up or you had someone who was a part of the culture tell you. Still, I can imagine what goes through the minds of a Chinese person when they are asked....</p>]]></description>
