@@ -1,20 +1,4 @@
-name: iamdicksonleung
-favicon: null
-layout_spectrum: 0.75377
 typography_spectrum: 0.36228
-title: 'I Am Dickson Leung - Live Well, Love Much, Laugh Lots.'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#16b1ea'
@@ -26,4 +10,22 @@ color:
   lightness: 0.9375
   saturation: 0
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75377
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Dickson Leung
+name: iamdicksonleung
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: ' Live Well, Love Much, Laugh Lots.'
 purpose: []
